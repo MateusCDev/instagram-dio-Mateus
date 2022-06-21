@@ -1,10 +1,9 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto Instagram DIO  🤖
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+##Video do  resultado final Projeto:
 
-### Os requisitos são:
+https://user-images.githubusercontent.com/60475982/174891663-c073f70d-1c45-4fdd-9c8c-759b0e6b4348.mp4
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+Usando Conceitos de Flexbox CSS! 
 
-## 🚀 Let's code! 🚀
+
